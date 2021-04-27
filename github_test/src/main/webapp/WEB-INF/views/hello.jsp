@@ -15,6 +15,7 @@ $(document).ready(function() {
 </head>
 <body>
 hello.jsp test
+반갑습니다~~
 test
 </body>
 </html>
